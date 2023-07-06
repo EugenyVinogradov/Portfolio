@@ -23,6 +23,6 @@
 * [Система контроля версий Git](Certificates/Git.png)
 * [Повышение квалификации по программе "SQL и получение данных"](Certificates/SQL.png)
 
-Мои домашние задания по курсу "Инженер по тестированию" можно посмотреть в [репозитории](https://github.com/EugenyVinogradov)
+Мои домашние задания по курсу "Инженер по тестированию" можно посмотреть в [репозитории](https://github.com/EugenyVinogradov?tab=repositories)
 
 
