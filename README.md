@@ -9,7 +9,7 @@
 * Итоговая работа по курсу "SQL и получение данных" - [составление SQL-запросов для получения информации из БД](https://github.com/EugenyVinogradov/SQL_Learning.git)
 
 ### Сертификаты Нетологии:
-* [Диплом об успешном окончании курса "Инженер по тестированию"](Certificates/Diploma.png)
+* [Диплом об успешном окончании курса "Инженер по тестированию"](Certificates/Diploma.png) ([Приложение](Certificates/Diploma2.png))
 * [Основы JS](Certificates/JS.png)
 * [JS для тестировщиков](https://github.com/EugenyVinogradov/Portfolio/blob/main/Certificates/JS%20for%20QA.png)
 * [Java для тестировщиков](Certificates/Java.png)
